@@ -60,31 +60,3 @@ while True:
         break
     else:
         print("Insira um valor valido!!")
-
-
-
-
-
-
-
-
-
-'''
-h = MaxHeap()
-h.put(45)
-h.put(55)
-h.put(33)
-h.put(34)
-h.put(35)
-h.put(56)
-
-h.peek()
-get = h.get()
-print(get)
-print(len(h.heap))
-contador = 0
-for i in reversed(h.heap):
-contador += 1
-print(h.get())
-print(contador)
-'''
